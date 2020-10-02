@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.305a6f29.chunk.css",
+    "main.js": "/static/js/main.86857ad2.chunk.js",
+    "main.js.map": "/static/js/main.86857ad2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3e3320f2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3e3320f2.js.map",
+    "static/js/2.9ce2cd47.chunk.js": "/static/js/2.9ce2cd47.chunk.js",
+    "static/js/2.9ce2cd47.chunk.js.map": "/static/js/2.9ce2cd47.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.eaa5508953d35b89cc4a359173cc4c7b.js": "/precache-manifest.eaa5508953d35b89cc4a359173cc4c7b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.305a6f29.chunk.css.map": "/static/css/main.305a6f29.chunk.css.map",
+    "static/js/2.9ce2cd47.chunk.js.LICENSE.txt": "/static/js/2.9ce2cd47.chunk.js.LICENSE.txt",
+    "static/media/angels.png": "/static/media/angels.ea46b22c.png",
+    "static/media/astros.png": "/static/media/astros.d1d9277d.png",
+    "static/media/bluejays.png": "/static/media/bluejays.bdba8bdc.png",
+    "static/media/brewers.png": "/static/media/brewers.656cd784.png",
+    "static/media/cardinals.png": "/static/media/cardinals.8f6bc667.png",
+    "static/media/cubs.png": "/static/media/cubs.589577e1.png",
+    "static/media/diamondbacks.png": "/static/media/diamondbacks.bfe4d2e7.png",
+    "static/media/indians.png": "/static/media/indians.9e2e766d.png",
+    "static/media/mariners.png": "/static/media/mariners.ab9e891a.png",
+    "static/media/marlins.png": "/static/media/marlins.0c35d225.png",
+    "static/media/nationals.png": "/static/media/nationals.4fc6fea2.png",
+    "static/media/orioles.png": "/static/media/orioles.de4b45fa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e3320f2.js",
+    "static/js/2.9ce2cd47.chunk.js",
+    "static/css/main.305a6f29.chunk.css",
+    "static/js/main.86857ad2.chunk.js"
+  ]
+}
