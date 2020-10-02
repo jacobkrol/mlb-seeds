@@ -1,4 +1,4 @@
-import React, { useState, useEffect, forwardRef } from 'react';
+import React, { useState, useEffect } from 'react';
 import './App.css';
 import { Flipper, Flipped } from 'react-flip-toolkit';
 import alSeedData from '../data/allongseeddata.json';
@@ -84,7 +84,7 @@ function App() {
             </div>
             <div id="references">
                 <span><p>[1]</p><a href="https://www.baseball-reference.com/" target="_blank" rel="noreferrer noopener">baseball-reference.com</a></span>
-                <span><p>[2]</p><a href="https://www.mlb.com/news/mlb-2020-postseason-tiebreaker-scenarios" target="_blank" rel="noreferrer noopener">MLB.com</a></span>
+                <span><p>[2]</p><a href="https://www.mlb.com/news/mlb-2020-postseason-tiebreaker-scenarios" target="_blank" rel="noreferrer noopener">mlb.com</a></span>
             </div>
         </div>
     );
